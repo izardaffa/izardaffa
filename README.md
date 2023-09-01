@@ -4,4 +4,4 @@
 
 ### My Skills :
 
-![HTML 5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){width=20%}
+![HTML 5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML 5"){height=40px}
