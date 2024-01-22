@@ -1,7 +1,7 @@
 # Hello, Welcome to My Github!
 
 <!-- ![Night Sky](https://source.unsplash.com/1366x384?night-sky) -->
-![Anime Girl](img/Aya-Maruyama-When-You-Turn-Around.jpg)
+![Hero Image](img/nijigaku-hsi.png)
 
 ## Skills :
 
