@@ -6,9 +6,6 @@
 
 <div align="center">
     <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=izardaffa&theme=radical&show_icons=true" />
-
-    <br>
-
     <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izardaffa&layout=compact&theme=radical" />
 </div>
 
