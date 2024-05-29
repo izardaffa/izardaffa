@@ -40,7 +40,7 @@
 
 <br>
 
-## Contact me:
+## Connect with me:
 <div>
     <a href="https://www.instagram.com/izardaffa_desu/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.github.com/izardaffa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
