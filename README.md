@@ -24,19 +24,17 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vuejs"/>](https://vuejs.org)
 
 #### Studying in this moment:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vuejs"/>](https://vuejs.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kotlin"/>](https://www.kotlinlang.org)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://www.android.com/)
 
 #### Tools:
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://www.android.com/)
 
 <br>
 
